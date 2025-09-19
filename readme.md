@@ -421,3 +421,7 @@ import {} from "@my-workspace/shared-lib"
 !!!!!!!!!!!!!!!!!!!!在 Monorepo 中，pnpm install 是一个需要在根目录执行的“全局操作”。
 
 在 apps 里克隆项目后, 在总的根目录下执行 pnpm i
+
+
+
+添加新的文档
